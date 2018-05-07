@@ -3,3 +3,6 @@
 config/*
 private/*
 acc/*
+# Ignore all libs except lib2
+lib/*
+!lib/lib2

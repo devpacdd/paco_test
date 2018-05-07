@@ -1,5 +1,5 @@
 <?php 
 
-echo "Test of paco test !"; # @1
+echo "Test of paco test !"; # @2
 
 ?>
